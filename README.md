@@ -1,5 +1,3 @@
-<img width="1672" height="1672" alt="Open Recorder 01" src="https://github.com/user-attachments/assets/36bf82a8-c5ea-4f26-bccf-03bebbc67969" /># Gravador AOSP
-
 Aplicativo Android instalável inspirado no gravador de tela do AOSP/SystemUI. O projeto usa apenas APIs públicas da plataforma e não depende de bibliotecas externas em tempo de execução.
 
 ## Recursos
@@ -56,6 +54,7 @@ M10678 8277 c-53 -15 -77 -30 -168 -102 -36 -28 -164 -130 -285 -226 -121 -96
 </g>
 </svg>
 Uploading Open Recorder 01.svg…]()
+<img width="1672" height="1672" alt="Open Recorder 01" src="https://github.com/user-attachments/assets/36bf82a8-c5ea-4f26-bccf-03bebbc67969" /># Gravador AOSP
 
 
 O áudio interno só pode incluir aplicativos que autorizam a captura de reprodução. Conteúdo protegido por DRM, aplicativos bancários e janelas com `FLAG_SECURE` podem produzir áudio silencioso ou vídeo preto.
