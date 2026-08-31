@@ -19,8 +19,7 @@ Aplicativo Android instalável inspirado no gravador de tela do AOSP/SystemUI. O
 - Java 17;
 - Android Gradle Plugin 8.9.2 e Gradle 8.11.1.
 
-Tela:
-![<?xml version="1.0" standalone="no"?>
+<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +27,6 @@ Tela:
  preserveAspectRatio="xMidYMid meet">
 <rect width="1254" height="1254" fill="#ffffff"/>
 <metadata>
-Created by potrace 1.16, written by Peter Selinger 2001-2019
 </metadata>
 <g transform="translate(0.000000,1254.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
@@ -53,7 +51,6 @@ M10678 8277 c-53 -15 -77 -30 -168 -102 -36 -28 -164 -130 -285 -226 -121 -96
 68 -162 99 -252 75z"/>
 </g>
 </svg>
-Uploading Open Recorder 01.svg…]()
 <img width="1672" height="1672" alt="Open Recorder 01" src="https://github.com/user-attachments/assets/36bf82a8-c5ea-4f26-bccf-03bebbc67969" /># Gravador AOSP
 
 
